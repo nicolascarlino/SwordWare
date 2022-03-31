@@ -14,15 +14,23 @@ Debug as a normal 5.0 .Net Project
   <p/>
 
   
-## Usage 🌑
+# Usage 🌑
 ```
 Delay -> Time that the cheat waits after you click
 Speed -> Speed of the mouse movement
 Trigger -> Randomizes movement of the mouse
 Human mode -> Takes breaks randomly to look real, recommmended for recording videos
 ```
+        
+# How it works ♣
+```
+(Everything here is FULLY external)
+Main cheat -> Moves your mouse with the speed that you configurated
+TriggerBot -> Does a randomized small movement in your mouse
+Human mode -> Coming soon.
+```
   
-## Notes 🏴‍☠️
+# Notes 🏴‍☠️
 * This is a pre-release version, if you see a bug, please open an issue. 🖤 
 * Educational purposes only 🚫
 * Alva Majo owned 💀
